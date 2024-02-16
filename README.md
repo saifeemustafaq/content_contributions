@@ -11,9 +11,9 @@ The objective of this repo is to document all the content contributions I have m
 - [AWS Learner Library](https://s12d.com/learner-library) 
 
 # Harness Documentation
-- [Platform](https://developer.harness.io/release-notes/platform)  
-- [Self-Managed Enterprise Edition](https://developer.harness.io/release-notes/self-managed-enterprise-edition)  
-- [Delegate](https://developer.harness.io/release-notes/delegate)  
+- [Platform  Release Notes](https://developer.harness.io/release-notes/platform)  
+- [Self-Managed Enterprise Edition Release Notes](https://developer.harness.io/release-notes/self-managed-enterprise-edition)  
+- [Delegate Release Notes](https://developer.harness.io/release-notes/delegate)  
 
 # Neurelo
 - [Neurelo Documentation](https://docs.neurelo.com/) 
