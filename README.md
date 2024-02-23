@@ -13,7 +13,10 @@ The objective of this repo is to document all the content contributions I have m
 # Harness Documentation
 - [Platform  Release Notes](https://developer.harness.io/release-notes/platform)  
 - [Self-Managed Enterprise Edition Release Notes](https://developer.harness.io/release-notes/self-managed-enterprise-edition)  
-- [Delegate Release Notes](https://developer.harness.io/release-notes/delegate)  
+- [Delegate Release Notes](https://developer.harness.io/release-notes/delegate)
+
+# Hashicorp Terraform Docs
+- [Platform Role Assigment](https://registry.terraform.io/providers/harness/harness/latest/docs/resources/platform_role_assignments)
 
 # Neurelo
 - [Neurelo Documentation](https://docs.neurelo.com/) 
