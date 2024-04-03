@@ -14,6 +14,14 @@ The objective of this repo is to document all the content contributions I have m
 - [Platform  Release Notes](https://developer.harness.io/release-notes/platform)  
 - [Self-Managed Enterprise Edition Release Notes](https://developer.harness.io/release-notes/self-managed-enterprise-edition)  
 - [Delegate Release Notes](https://developer.harness.io/release-notes/delegate)
+- [Add a custom certificate to Harness Platform](https://developer.harness.io/docs/platform/certificates/add-custom-certificate)
+
+## Minor documentation contribution
+- [Single Sign-On (SSO) with SAML](https://developer.harness.io/docs/platform/authentication/single-sign-on-saml/#saml-sso-with-azure)
+- [Harness Platform FAQs](https://developer.harness.io/kb/platform/harness-platform-faqs)
+- [Add SMTP configuration](https://developer.harness.io/docs/platform/notifications/add-smtp-configuration/#option-send-notifications-for-a-user-group-using-email)
+- [Harness NextGen Software Delivery Platform API Reference (1.0)](https://apidocs.harness.io/#section/Introduction/Authentication)
+- [Entity identifier reference](https://developer.harness.io/docs/platform/references/entity-identifier-reference/)
 
 # Hashicorp Terraform Docs
 - [Platform Role Assigment](https://registry.terraform.io/providers/harness/harness/latest/docs/resources/platform_role_assignments)
