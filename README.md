@@ -40,5 +40,5 @@ The objective of this repo is to document all the content contributions I have m
 
 # Video Contributions
 
-CI Build Credits - https://youtu.be/vhEkeI_NvAQ
-Hashnode Mapping Custom Domain - https://www.youtube.com/watch?v=MnZqbYn6vts&ab_channel=MustafaSaifee
+- CI Build Credits - https://youtu.be/vhEkeI_NvAQ 
+- Hashnode Mapping Custom Domain - https://www.youtube.com/watch?v=MnZqbYn6vts&ab_channel=MustafaSaifee 
