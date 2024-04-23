@@ -36,3 +36,9 @@ The objective of this repo is to document all the content contributions I have m
 - [Matplotlib - The ultimate data science tool](https://mustafas.work/matplotlib-the-ultimate-data-science-tool)  
 - [Indian Flag with Python and Tkinter](https://mustafas.work/indian-flag-with-python-and-tkinter)  
 - [LangChain - Ultimate beginners guide](https://mustafas.work/langchain-ultimate-beginners-guide)  
+
+
+# Video Contributions
+
+CI Build Credits - https://youtu.be/vhEkeI_NvAQ
+Hashnode Mapping Custom Domain - https://www.youtube.com/watch?v=MnZqbYn6vts&ab_channel=MustafaSaifee
