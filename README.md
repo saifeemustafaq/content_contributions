@@ -24,7 +24,6 @@ The objective of this repo is to document all the content contributions I have m
 - [Harness NextGen Software Delivery Platform API Reference (1.0)](https://apidocs.harness.io/#section/Introduction/Authentication)
 - [Entity identifier reference](https://developer.harness.io/docs/platform/references/entity-identifier-reference/)
 - [Configure delegate metrics and auto scale](https://developer.harness.io/docs/platform/delegates/manage-delegates/delegate-metrics/)
-- 
 
 # Hashicorp Terraform Docs
 - [Platform Role Assigment](https://registry.terraform.io/providers/harness/harness/latest/docs/resources/platform_role_assignments)
