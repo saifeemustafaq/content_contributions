@@ -17,7 +17,6 @@ The objective of this repo is to document all the content contributions I have m
 - [Self-Managed Enterprise Edition Release Notes](https://developer.harness.io/release-notes/self-managed-enterprise-edition)  
 - [Delegate Release Notes](https://developer.harness.io/release-notes/delegate)
 
-
 ## Minor documentation contribution
 - [Single Sign-On (SSO) with SAML](https://developer.harness.io/docs/platform/authentication/single-sign-on-saml/#saml-sso-with-azure)
 - [Harness Platform FAQs](https://developer.harness.io/kb/platform/harness-platform-faqs)
@@ -42,8 +41,6 @@ The objective of this repo is to document all the content contributions I have m
 - [Matplotlib - The ultimate data science tool](https://mustafas.work/matplotlib-the-ultimate-data-science-tool)  
 - [Indian Flag with Python and Tkinter](https://mustafas.work/indian-flag-with-python-and-tkinter)  
 - [LangChain - Ultimate beginners guide](https://mustafas.work/langchain-ultimate-beginners-guide)
-
-
 
 # Video Contributions
 
