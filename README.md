@@ -11,10 +11,12 @@ The objective of this repo is to document all the content contributions I have m
 - [AWS Learner Library](https://s12d.com/learner-library) 
 
 # Harness Documentation
+- [Add a custom certificate to Harness Platform](https://developer.harness.io/docs/platform/certificates/add-custom-certificate)
+- [Manage roles](https://developer.harness.io/docs/platform/role-based-access-control/add-manage-roles)
 - [Platform  Release Notes](https://developer.harness.io/release-notes/platform)  
 - [Self-Managed Enterprise Edition Release Notes](https://developer.harness.io/release-notes/self-managed-enterprise-edition)  
 - [Delegate Release Notes](https://developer.harness.io/release-notes/delegate)
-- [Add a custom certificate to Harness Platform](https://developer.harness.io/docs/platform/certificates/add-custom-certificate)
+
 
 ## Minor documentation contribution
 - [Single Sign-On (SSO) with SAML](https://developer.harness.io/docs/platform/authentication/single-sign-on-saml/#saml-sso-with-azure)
