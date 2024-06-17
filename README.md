@@ -16,6 +16,7 @@ The objective of this repo is to document all the content contributions I have m
 - [Platform  Release Notes](https://developer.harness.io/release-notes/platform)  
 - [Self-Managed Enterprise Edition Release Notes](https://developer.harness.io/release-notes/self-managed-enterprise-edition)  
 - [Delegate Release Notes](https://developer.harness.io/release-notes/delegate)
+- [Troubleshooting Guides](https://developer.harness.io/docs/category/troubleshooting-2)
 
 ## Minor documentation contribution
 - [Single Sign-On (SSO) with SAML](https://developer.harness.io/docs/platform/authentication/single-sign-on-saml/#saml-sso-with-azure)
