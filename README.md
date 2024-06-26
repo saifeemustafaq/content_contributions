@@ -47,4 +47,4 @@ The objective of this repo is to document all the content contributions I have m
 - CI Build Credits - https://youtu.be/vhEkeI_NvAQ 
 - Hashnode Mapping Custom Domain - https://www.youtube.com/watch?v=MnZqbYn6vts&ab_channel=MustafaSaifee
 - Merkle tree - https://youtu.be/jhj_pNd4A8w
-- All videos - https://www.youtube.com/channel/UCL08YO26Ck_Zjt_N1wqQdYQ
+- All videos - https://www.youtube.com/@cloudymanmentorship6135
