@@ -1,6 +1,12 @@
 # Content_Contributions
 The objective of this repo is to document all the content contributions I have made till now.
 
+# Starred Contribution
+
+| Microsoft                                                                                     | Amazon AWS                                             | Neurelo                                            | Hashicorp                                                                                                                          | Personal                                                                                             |
+|----------------------------------------------------------------------------------------------|-------------------------------------------------|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| [Azure Functions](https://learn.microsoft.com/en-us/training/modules/intro-azure-functions/) | [AWS ML Workshop](https://s12d.com/ml-workshop) | [Neurelo Documentation](https://docs.neurelo.com/) | [Platform Role Assigment](https://registry.terraform.io/providers/harness/harness/latest/docs/resources/platform_role_assignments) | [Develop a text editor app with Python](https://mustafas.work/develop-a-text-editor-app-with-python) |
+
 # Microsoft
 - [Azure Functions](https://learn.microsoft.com/en-us/training/modules/intro-azure-functions/)  
 - [Azure Web PubSub](https://learn.microsoft.com/en-us/training/modules/introduction-to-azure-web-pubsub/)  
