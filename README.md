@@ -50,6 +50,10 @@ The objective of this repo is to document all the content contributions I have m
 - [Indian Flag with Python and Tkinter](https://mustafas.work/indian-flag-with-python-and-tkinter)  
 - [LangChain - Ultimate beginners guide](https://mustafas.work/langchain-ultimate-beginners-guide)
 
+
+# Product Management Personal Blogs
+- [Understanding Product Management and Related Roles](https://mustafas.work/understanding-product-management-and-related-roles)
+
 # Video Contributions
 
 - CI Build Credits - https://youtu.be/vhEkeI_NvAQ 
