@@ -49,6 +49,7 @@ The objective of this repo is to document all the content contributions I have m
 - [Matplotlib - The ultimate data science tool](https://mustafas.work/matplotlib-the-ultimate-data-science-tool)  
 - [Indian Flag with Python and Tkinter](https://mustafas.work/indian-flag-with-python-and-tkinter)  
 - [LangChain - Ultimate beginners guide](https://mustafas.work/langchain-ultimate-beginners-guide)
+- [How to Choose Your Perfect Master's Program: A Step-by-Step Guide](https://mustafas.work/how-to-choose-your-perfect-masters-program-a-step-by-step-guide)
 
 
 # Product Management Personal Blogs
