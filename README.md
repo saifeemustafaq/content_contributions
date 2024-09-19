@@ -38,7 +38,12 @@ The objective of this repo is to document all the content contributions I have m
 - [Platform Role Assigment](https://registry.terraform.io/providers/harness/harness/latest/docs/resources/platform_role_assignments)
 
 # Neurelo
-- [Neurelo Documentation](https://docs.neurelo.com/) 
+- [Neurelo Documentation](https://docs.neurelo.com/)
+
+# Product Management Personal Blogs
+- [Understanding Product Management and Related Roles](https://mustafas.work/understanding-product-management-and-related-roles)
+- [The Great Business Model Debate](https://mustafas.work/the-great-business-model-debate-why-software-companies-are-doomed-if-they-cant-reconcile-product-strategy-revenue-logic-and-customer-value)
+- [Cracking the Code of TAM, SAM, and SOM](https://mustafas.work/cracking-the-code-of-tam-sam-and-som-a-101-silicon-valley-guide-to-market-sizing)
 
 # Personal Blog
 - [Introduction to Deep Learning and Neural Networks](https://mustafas.work/introduction-to-deep-learning-and-neural-networks)
@@ -50,10 +55,6 @@ The objective of this repo is to document all the content contributions I have m
 - [Indian Flag with Python and Tkinter](https://mustafas.work/indian-flag-with-python-and-tkinter)  
 - [LangChain - Ultimate beginners guide](https://mustafas.work/langchain-ultimate-beginners-guide)
 - [How to Choose Your Perfect Master's Program: A Step-by-Step Guide](https://mustafas.work/how-to-choose-your-perfect-masters-program-a-step-by-step-guide)
-
-
-# Product Management Personal Blogs
-- [Understanding Product Management and Related Roles](https://mustafas.work/understanding-product-management-and-related-roles)
 
 # Video Contributions
 
