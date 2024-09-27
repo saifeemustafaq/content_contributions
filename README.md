@@ -41,10 +41,11 @@ The objective of this repo is to document all the content contributions I have m
 - [Neurelo Documentation](https://docs.neurelo.com/)
 
 # Product Management Personal Blogs
-- [Understanding Product Management and Related Roles](https://mustafas.work/understanding-product-management-and-related-roles)
-- [The Great Business Model Debate](https://mustafas.work/the-great-business-model-debate-why-software-companies-are-doomed-if-they-cant-reconcile-product-strategy-revenue-logic-and-customer-value)
-- [Cracking the Code of TAM, SAM, and SOM](https://mustafas.work/cracking-the-code-of-tam-sam-and-som-a-101-silicon-valley-guide-to-market-sizing)
+- [Porter's Five Forces: Overview and Detailed Analysis](https://mustafas.work/porters-five-forces-overview-and-detailed-analysis)
 - [Questions Every PM Must Answer Before Writing a Market Requirements Document (MRD)](https://mustafas.work/16-make-or-break-questions-every-pm-must-answer-before-writing-a-market-requirements-document-mrd)
+- [Cracking the Code of TAM, SAM, and SOM](https://mustafas.work/cracking-the-code-of-tam-sam-and-som-a-101-silicon-valley-guide-to-market-sizing)
+- [The Great Business Model Debate](https://mustafas.work/the-great-business-model-debate-why-software-companies-are-doomed-if-they-cant-reconcile-product-strategy-revenue-logic-and-customer-value)
+- [Understanding Product Management and Related Roles](https://mustafas.work/understanding-product-management-and-related-roles)
 
 # Personal Blog
 - [Introduction to Deep Learning and Neural Networks](https://mustafas.work/introduction-to-deep-learning-and-neural-networks)
