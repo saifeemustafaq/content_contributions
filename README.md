@@ -59,8 +59,10 @@ The objective of this repo is to document all the content contributions I have m
 - [How to Choose Your Perfect Master's Program: A Step-by-Step Guide](https://mustafas.work/how-to-choose-your-perfect-masters-program-a-step-by-step-guide)
 
 # Video Contributions
-
+- Learn How to Develop Secure IoT with Azure Sphere & IoT Central - https://www.youtube.com/watch?v=wP8Tbomlk-o
+- Learn How to Develop Secure IoT Solutions with Azure Sphere and IoT Hub - https://www.youtube.com/watch?v=shHkxOWDIus
 - CI Build Credits - https://youtu.be/vhEkeI_NvAQ 
 - Hashnode Mapping Custom Domain - https://www.youtube.com/watch?v=MnZqbYn6vts&ab_channel=MustafaSaifee
 - Merkle tree - https://youtu.be/jhj_pNd4A8w
+- Cloudyman Mentorship Program - https://www.youtube.com/watch?v=KRpWRX3t5ko&list=PLSHJhVQ0UMGTKw3Js-IGDOBuL96WNWmoC
 - All videos - https://www.youtube.com/@cloudymanmentorship6135
