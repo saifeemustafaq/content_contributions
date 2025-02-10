@@ -13,7 +13,7 @@ The objective of this repo is to document all the content contributions I have m
 - [C++ First Program](https://learn.microsoft.com/en-us/training/modules/cpp-first-program/)  
 
 # AWS
-- [AWS ML Workshop](https://s12d.com/ml-workshop)  
+- [AWS ML Workshop](https://github.com/saifeemustafaq/building-a-machine-learning-enabled-web-app)  
 - [AWS Learner Library](https://s12d.com/learner-library) 
 
 # Harness Documentation
