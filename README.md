@@ -40,8 +40,10 @@ The objective of this repo is to document all the content contributions I have m
 # Neurelo
 - [Neurelo Documentation](https://docs.neurelo.com/)
 
-# Product Management Personal Blogs
+# Fallen Products
 - [The Rise and Fall of Google Stadia: A Post-Mortem Analysis of Cloud Gaming’s Most Ambitious Experiment](https://medium.com/@saifeemustafaq/the-rise-and-fall-of-google-stadia-a-post-mortem-analysis-of-cloud-gamings-most-ambitious-2f2b0a022aa9)
+
+# Product Management Personal Blogs
 - [The Evolution of Performance Measurement and AI’s Impact on Performance Management](https://medium.com/@saifeemustafaq/the-evolution-of-performance-measurement-and-ais-impact-on-performance-management-a44482304dd5)
 - [Porter's Five Forces: Overview and Detailed Analysis](https://mustafas.work/porters-five-forces-overview-and-detailed-analysis)
 - [Questions Every PM Must Answer Before Writing a Market Requirements Document (MRD)](https://mustafas.work/16-make-or-break-questions-every-pm-must-answer-before-writing-a-market-requirements-document-mrd)
