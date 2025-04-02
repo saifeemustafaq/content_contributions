@@ -44,7 +44,8 @@ The objective of this repo is to document all the content contributions I have m
 - [The Rise and Fall of Google Stadia: A Post-Mortem Analysis of Cloud Gaming’s Most Ambitious Experiment](https://medium.com/@saifeemustafaq/the-rise-and-fall-of-google-stadia-a-post-mortem-analysis-of-cloud-gamings-most-ambitious-2f2b0a022aa9)
 
 # The Grand Pivot
-- 
+- [The Grand Pivot — YouTube: From Dating Platform to Video Empire](https://medium.com/@saifeemustafaq/the-grand-pivot-youtube-from-dating-platform-to-video-empire-8fb6169fb42d)
+- [The Grand Pivot — Android: From Camera OS to Mobile Empire](https://medium.com/@saifeemustafaq/the-grand-pivot-android-from-camera-os-to-mobile-empire-23c7807f0e5e)
 
 # Product Management Personal Blogs
 - [The Evolution of Performance Measurement and AI’s Impact on Performance Management](https://medium.com/@saifeemustafaq/the-evolution-of-performance-measurement-and-ais-impact-on-performance-management-a44482304dd5)
